@@ -1,0 +1,6 @@
+sbt compile
+sbt run
+sbt compile;
+ls
+sbt
+sbt compile
