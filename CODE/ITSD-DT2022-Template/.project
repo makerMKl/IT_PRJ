@@ -1,5 +1,5 @@
 <projectDescription>
-  <name>ITSD Card Game 2022</name>
+  <name>ITSD Card Game</name>
   <buildSpec>
     <buildCommand>
       <name>org.scala-ide.sdt.core.scalabuilder</name>
